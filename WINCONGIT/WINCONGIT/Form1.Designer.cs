@@ -43,10 +43,10 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Red;
-            this.button2.Location = new System.Drawing.Point(527, 124);
+            this.button2.BackColor = System.Drawing.Color.Fuchsia;
+            this.button2.Location = new System.Drawing.Point(302, 180);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(149, 80);
+            this.button2.Size = new System.Drawing.Size(383, 208);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = false;
