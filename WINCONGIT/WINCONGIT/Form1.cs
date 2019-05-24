@@ -16,5 +16,10 @@ namespace WINCONGIT
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ESTAMOS EN CONTROL DE VERSIONES");
+        }
     }
 }
