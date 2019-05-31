@@ -21,5 +21,10 @@ namespace WINCONGIT
         {
             MessageBox.Show("ESTAMOS EN CONTROL DE VERSIONES");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
